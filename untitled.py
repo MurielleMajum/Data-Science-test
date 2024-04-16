@@ -472,11 +472,6 @@ print("Meilleur score de validation croisée (neg_mean_squared_error):", grid_se
 from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
-from sklearn.ensemble import GradientBoostingRegressor
-from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score, mean_absolute_percentage_error
-from sklearn.feature_selection import SelectFromModel
-from sklearn.linear_model import Lasso
-
 
 pipe = Pipeline(
     [
@@ -515,7 +510,6 @@ import torch
 import torch.nn as nn
 import torch.optim as optim
 from torch.utils.data import DataLoader, TensorDataset
-import numpy as np
 from sklearn.preprocessing import StandardScaler
 
 # convertissons les données en tenseurs PyTorch
