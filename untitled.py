@@ -8,7 +8,7 @@ Original file is located at
 
 # **DATA SCIENCE TECHNICAL TEST**
 
-##### Bibliothèques necessaires
+##### Bibliothèques et frameworks necessaires
 """
 
 pip install pyarrow
