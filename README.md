@@ -7,7 +7,7 @@
   * une verification et suppression des valeurs manquantes (dans un autre cas au lieu de supprimer on pourrait plutot les imputer par une methode appropriées aux données)
   * une verification de la correlation entre les différentes variables
   * une sélection de variable (sélection par Lasso dans notre cas)
-  * encodage des données non numériques pour pouvoir les entrainer dans nos modèles
+  * encodage des données non numériques pour pouvoir les utiliser pour entrainer nos modèles
 
 ### Ensuite entrainer deux modèles sur nos données afin de pouvoir prédire ladite demande
 
