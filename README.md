@@ -1,4 +1,4 @@
-# Data-Science-test
+## Data-Science-test - WIREMIND - PREDICTION DE LA DEMANDE DE BILLETS DE TRAIN
 
 ### Ce travail a pour but de prédire la demande de billet de train en fonction d'un prix proposé, du tems restant avant le départ du dit train et d'autres paramètres tels que la durée de voyage et l'heure d'arrivée du train à la destination souhaitée.
 
